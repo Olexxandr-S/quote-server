@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.quote-content {
+  background: rgb(40, 90, 40);
+  border-radius: 1rem;
+  width: 50rem;
+}
+
+.quote {
+  padding: 0.3rem;
+  padding-bottom: 0;
+  margin-top: 1rem;
+}
+
+.author {
+  padding: 0.3rem;
+  margin-bottom: 1rem;
+}
+
+.input {
+  width: 25rem;
+  border-radius: 0.3rem;
+}
